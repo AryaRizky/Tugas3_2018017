@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">servicemotor</string>
+    <string name="deskription_menu">Service motor dengan ganti oli lebih bagus</string>
+    <string name="ingredients">Service + ganti Oli </string>
+    <string name="price">Rp. 100.000 </string>
+    <string name="Harga_Service">Rp. 100.000 </string>
+</resources>
